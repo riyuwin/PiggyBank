@@ -19,7 +19,7 @@ To run the CRUD operations in the RESTful API, the following are required:
 
  
 •	Proceed with your browser and search the development server found in the terminal (http://127.0.0.1:8000/). (For shortcut key, Alt + Click)
-![Image Alt Text](Django-URL-Server.png)
+![Image Alt Text](Documentation/Django-URL-Server.png)
 
 You noticed that the server prompt shows "Page not found" because APIs not declared, so you need to add the following API paths to the end of the URL:
  
